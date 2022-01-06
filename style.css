@@ -51,3 +51,42 @@ a:hover {
     color: orange;
     display: inline;
 }
+
+.mid {
+    display: flex;
+    position: absolute;
+    ;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.mid img {
+    width: 50%;
+}
+
+.mid-1 {
+    width: 23%;
+    height: 350px;
+    padding: 20px 30px;
+    margin-left: 60px;
+    border-radius: 15px;
+    background-color: aqua;
+}
+
+.mid-2 {
+    width: 23%;
+    height: 350px;
+    padding: 20px 30px;
+    margin-left: 10px;
+    background-color: rgb(226, 105, 226);
+    border-radius: 15px;
+}
+
+.mid-3 {
+    width: 23%;
+    height: 350px;
+    padding: 20px 30px;
+    margin-left: 10px;
+    background-color: cornsilk;
+    border-radius: 15px;
+}
