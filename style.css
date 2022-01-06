@@ -1,0 +1,53 @@
+h1 {
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Merriweather', serif;
+    font-size: 80px;
+    line-height: 25px;
+}
+
+.front {
+    color: orange;
+}
+
+.section {
+    display: flex;
+}
+
+.half {
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+.half img {
+    width: 30%;
+    top: 0;
+    right: 0;
+    position: absolute;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+.go {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(247, 83, 83);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: firebrick;
+}
+
+.middle {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 80px;
+    letter-spacing: -1px;
+    text-align: center;
+}
+
+.middle-color {
+    color: orange;
+    display: inline;
+}
